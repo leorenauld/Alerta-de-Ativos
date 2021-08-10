@@ -1,0 +1,7 @@
+C:\Users\leona\source\repos\Alerta de Ativos\Alerta de Ativos\bin\Debug\Alerta de Ativos.exe.config
+C:\Users\leona\source\repos\Alerta de Ativos\Alerta de Ativos\bin\Debug\Alerta de Ativos.exe
+C:\Users\leona\source\repos\Alerta de Ativos\Alerta de Ativos\bin\Debug\Alerta de Ativos.pdb
+C:\Users\leona\source\repos\Alerta de Ativos\Alerta de Ativos\obj\Debug\Alerta de Ativos.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\Alerta de Ativos\Alerta de Ativos\obj\Debug\Alerta de Ativos.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\Alerta de Ativos\Alerta de Ativos\obj\Debug\Alerta de Ativos.exe
+C:\Users\leona\source\repos\Alerta de Ativos\Alerta de Ativos\obj\Debug\Alerta de Ativos.pdb
